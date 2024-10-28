@@ -1,2 +1,2 @@
 # Lake-Geneva-Events
-Support folder for app
+This app provides users with a date searchable method to find special events occurring in the Geneva Lake area.  The focus is on special and unique events and generally excludes business promotional events.  Each event on a particular date can be displayed in map or list format, and is then further selectable.  The detail view displays additional information such as time, specific location, description, and links to external urls.  Additionally, the current weather and forecast crowd levels are displayed on the main app screen.
